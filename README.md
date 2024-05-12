@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# LegendaryLHL
-
 This is the GitHub home of LegendaryLHL. Here you'll find some of my open-source projects.
 
 ## Feel free to contribute!
