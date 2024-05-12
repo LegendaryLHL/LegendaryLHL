@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+# LegendaryLHL
+
+This is the GitHub home of LegendaryLHL. Here you'll find some of my open-source projects.
+
+## Feel free to contribute!
+
+If you find any issues with these projects or have suggestions for improvements, feel free to open an issue or create a pull request.
 <!--
 **LegendaryLHL/LegendaryLHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
